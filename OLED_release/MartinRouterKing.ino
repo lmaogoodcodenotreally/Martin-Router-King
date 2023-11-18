@@ -19,7 +19,7 @@ char spinnerChars[] = {'I', '/', '-', '\\'};
   - max. 32 characters
   - don't add dupes
 */
-const char ssids[] PROGMEM = {
+const char ssids[] PROGMEM = {      // P100 code LMAO
 "Martin Router King 1\n"
 "Martin Router King 2\n"
 "Martin Router King 3\n"
